@@ -59,6 +59,9 @@
 - 漏洞赏金计划的条款和条件可以随时由 Fort 自行决定更改。
 - 任何有效错误的详细信息都可以与 Fort 生态系统中使用的补充协议共享，以促进生态系统的凝聚力和安全性。
 
+### 联系方式
+Email: fortdao@fortprotocol.com
+
 ---
 
 ### Rewards by Threat Level
@@ -120,3 +123,5 @@ The rules of this bug bounty are as follows:
 - Terms and conditions of the Bug Bounty program can be changed at any time at the discretion of Fort.
 - Details of any valid bugs may be shared with complementary protocols utilized in the Fort ecosystem in order to promote ecosystem cohesion and safety.
 
+### Contact information
+Email: fortdao@fortprotocol.com
